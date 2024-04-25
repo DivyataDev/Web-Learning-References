@@ -6,5 +6,7 @@ CSS :
 
 Javascript:
 1. Airbnb JavaScript Style Guide - https://github.com/airbnb/javascript
-
+ 
+Udemy Course:
+1. The Complete 2024 Web Development Bootcamp - https://www.udemy.com/course/the-complete-web-development-bootcamp/
 
